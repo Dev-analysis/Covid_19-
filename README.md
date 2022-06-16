@@ -27,3 +27,7 @@ Here I divided primary table into two parts.
 1. Microsoft Excel       Version: 2021 
 2. MySQL                 Version: 8.0.28
 
+## Steps
+1. Data Exploration
+2. Data Cleaning
+3. PowerBI Visualization
